@@ -5,7 +5,7 @@
 -- INSERT INTO cats (name, sleepy) VALUES ('Joe Biden', true);
 -- INSERT INTO cats (name) VALUES ('Owens');
 
-INSERT INTO burgers (burger_name, devour) VALUES ('Cheese Burger', false);
-INSERT INTO burgers (burger_name, devour) VALUES ('Bacon-Cheese Burger', false);
-INSERT INTO burgers (burger_name, devour) VALUES ('Turkey Burger', false);
+INSERT INTO burgers (name, devour) VALUES ('Cheese Burger', false);
+INSERT INTO burgers (name, devour) VALUES ('Bacon-Cheese Burger', false);
+INSERT INTO burgers (name, devour) VALUES ('Turkey Burger', false);
 
